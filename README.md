@@ -5,6 +5,7 @@ In this work, we focus on emotion recognition through human facial expressions, 
 # 2. Proposed model
 
 The proposed model follows a sequential convolutional architecture designed for facial emotion classification.
+
 ![Model_Diagram](imgs/Model_Diagram.png)
 
 # 3. Experiments
