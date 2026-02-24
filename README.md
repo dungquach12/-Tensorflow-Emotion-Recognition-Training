@@ -6,7 +6,7 @@ In this work, we focus on emotion recognition through human facial expressions, 
 
 The proposed model follows a sequential convolutional architecture designed for facial emotion classification.
 
-![Model_Diagram](imgs/Model_Diagram.png)
+![Model_Diagram](https://github.com/dungquach12/-Tensorflow-Emotion-Recognition-Training/blob/6d5008bd1f930c1186a4dfbeb629d6ce2f68626c/imgs/Model%20Diagram.png)
 
 # 3. Experiments
 ## 3.1 Dataset
